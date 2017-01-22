@@ -3,4 +3,5 @@
 * Programming language : Python  
 * IDE : Atom
 * 내용 :
- - Bubble sort : https://github.com/heyman333/datastructure_python/blob/master/BubbleSort.py
+ - BubbleSort : https://github.com/heyman333/datastructure_python/blob/master/BubbleSort.py
+ - SelectionSort https://github.com/heyman333/datastructure_python/blob/master/selectionSort.py
