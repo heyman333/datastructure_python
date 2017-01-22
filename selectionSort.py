@@ -1,4 +1,4 @@
-def selectionSort(un_list):
+def SelectionSort(un_list):
     for i in range(len(un_list)):
         minNum = un_list[i]
         flag = 0
