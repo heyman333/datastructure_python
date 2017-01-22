@@ -11,6 +11,6 @@ def SelectionSort(un_list):
             un_list[i], un_list[flag] = un_list[flag], un_list[i]
     return un_list
 
-test = [0,4,3]
+test = [5,4,3,2,1]
 new_list = selectionSort(test)
 print(new_list)
