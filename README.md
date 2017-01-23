@@ -5,4 +5,4 @@
 * 내용 :
  - BubbleSort : https://github.com/heyman333/datastructure_python/blob/master/BubbleSort.py
  - SelectionSort : https://github.com/heyman333/datastructure_python/blob/master/selectionSort.py
- - InsertionSOrt : https://github.com/heyman333/datastructure_python/blob/master/InsertionSort.py
+ - InsertionSort : https://github.com/heyman333/datastructure_python/blob/master/InsertionSort.py
