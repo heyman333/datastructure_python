@@ -7,3 +7,4 @@
  - SelectionSort : https://github.com/heyman333/datastructure_python/blob/master/selectionSort.py
  - InsertionSort : https://github.com/heyman333/datastructure_python/blob/master/InsertionSort.py
  - MergeSort : https://github.com/heyman333/datastructure_python/blob/master/MergeSort.py
+ - QuickSort : https://github.com/heyman333/datastructure_python/blob/master/QuickSort.py
